@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DreamBullet
+- 👋 Hi, I’m  Ahmet Yurtsever
 - 👀 I’m interestedin ...Yazılım Geliştirme
 - 🌱 I’m currently learning Yazılım
 - 💞️ I’m looking to collaborate on ..
